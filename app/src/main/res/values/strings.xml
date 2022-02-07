@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeHiltMvvmCoroutine</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="homescreen">HomeScreen</string>
+</resources>
